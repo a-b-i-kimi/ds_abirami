@@ -120,10 +120,15 @@ Real-time sentiment integration
 
 Dashboard development
 
+## 📥 Dataset Download
+
+Due to GitHub file size limits, the main dataset is hosted on Google Drive.
+Download dataset in csv_files.
 
 Author
 Name: Abirami R
 Role: Aspiring Data Analyst
 Location: Chennai, India
+
 
 
